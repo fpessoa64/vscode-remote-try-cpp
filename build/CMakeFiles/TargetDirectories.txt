@@ -1,0 +1,3 @@
+/workspaces/vscode-remote-try-cpp/build/CMakeFiles/rebuild_cache.dir
+/workspaces/vscode-remote-try-cpp/build/CMakeFiles/edit_cache.dir
+/workspaces/vscode-remote-try-cpp/build/CMakeFiles/MyExample.dir

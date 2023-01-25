@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/vscode-remote-try-cpp/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -o CMakeFiles/MyExample.dir/main.cpp.o -c /workspaces/vscode-remote-try-cpp/main.cpp",
+  "file": "/workspaces/vscode-remote-try-cpp/main.cpp"
+}
+]
